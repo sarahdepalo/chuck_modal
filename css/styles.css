@@ -58,3 +58,14 @@ body {
     border-radius: 20px;
 
 }
+
+button.modal__close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #fff;
+    border: none;
+    color: slategray;
+    border-radius:15px;
+    
+}
