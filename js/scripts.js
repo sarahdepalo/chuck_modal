@@ -12,6 +12,8 @@ closeModalBtn.addEventListener('click', function () {
     toggleModal();
 })
 
+// Allows for the user to exit out of the pop-up by pressing anywhere in the overlay. 
+
 // const overlay = document.querySelector('#overlay');
 // overlay.addEventListener('click', function () {
 //     toggleModal();
